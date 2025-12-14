@@ -1,5 +1,7 @@
-+++
-date = '2025-12-15T00:35:55+03:00'
-draft = false
-title = 'My First Post'
-+++
+---
+title: "我的第一篇博客"
+date: 2025-12-14T12:00:00+08:00
+draft: false
+categories: ["学习笔记"]
+tags: ["Ubuntu", "Git"]
+---
