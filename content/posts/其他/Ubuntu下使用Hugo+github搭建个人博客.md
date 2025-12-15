@@ -1,6 +1,6 @@
 ---
 title: "如何搭建个人博客"
-date: 2025-12-14
+date: 2025-12-15
 draft: false
 categories: ["其他"]
 tags: ["Ubuntu", "Hugo"]
@@ -252,3 +252,12 @@ git push -u origin main
    ```
 
 3. 等一分钟，GitHub会自动帮你更新网站。
+
+
+
+
+
+
+
+
+
